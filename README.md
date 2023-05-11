@@ -5,19 +5,19 @@ Assignment Portal using REST API/Thymeleaf
 For Present 3 Actors are there.
 <br>
 
-Student 
+Student <br>
 &emsp;&emsp;- Can Register/ Login <br>
 &emsp;&emsp;- View Uploaded Assignments / new Assignments <br>
 &emsp;&emsp;- Submit Assignments <br>
 &emsp;&emsp;- Delete Assignments <br> <br>
         
-Teacher
+Teacher <br>
 &emsp;&emsp;- Can Register/ Login <br>
 &emsp;&emsp;- Uploaded Assignment Questions <br>
 &emsp;&emsp;- Check gieveStudents response <br>
 &emsp;&emsp;- Delete Assignments <br> <br>
         
-Admin
+Admin <br>
 &emsp;&emsp;- Can see all your credetials <br>
 &emsp;&emsp;- Can delete Credent <br>
 
