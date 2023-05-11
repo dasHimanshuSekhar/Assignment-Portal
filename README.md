@@ -1,21 +1,25 @@
-# Assignment-Portal
+# Assignment-Portal<br>
 Assignment Portal using REST API/Thymeleaf
+<br>
 
+For Present 3 Actors are there.
+<br>
 
-For Present 2 Actors are there.
-
-Student - Can Register/ Login
-        - View Uploaded Assignments / new Assignments
-        - Submit Assignments
-        - Delete Assignments
+Student 
+&emsp;&emsp;- Can Register/ Login <br>
+&emsp;&emsp;- View Uploaded Assignments / new Assignments <br>
+&emsp;&emsp;- Submit Assignments <br>
+&emsp;&emsp;- Delete Assignments <br> <br>
         
-Teacher - Can Register/ Login
-        - Uploaded Assignment Questions
-        - Check gieveStudents response
-        - Delete Assignments
+Teacher
+&emsp;&emsp;- Can Register/ Login <br>
+&emsp;&emsp;- Uploaded Assignment Questions <br>
+&emsp;&emsp;- Check gieveStudents response <br>
+&emsp;&emsp;- Delete Assignments <br> <br>
         
-Admin - Can see all your credetials
-      - Can delete Credent
+Admin
+&emsp;&emsp;- Can see all your credetials <br>
+&emsp;&emsp;- Can delete Credent <br>
 
 
 As a controller REST-API used.
