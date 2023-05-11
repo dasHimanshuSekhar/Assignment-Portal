@@ -9,10 +9,13 @@ Student - Can Register/ Login
         - Submit Assignments
         - Delete Assignments
         
-Student - Can Register/ Login
-        - Uploaded Assignments Questions
-        - Check his Students response
+Teacher - Can Register/ Login
+        - Uploaded Assignment Questions
+        - Check gieveStudents response
         - Delete Assignments
+        
+Admin - Can see all your credetials
+      - Can delete Credent
 
 
 As a controller REST-API used.
